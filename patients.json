@@ -1,0 +1,224 @@
+{
+  "patients": [
+    {
+      "patient_id": "P001",
+      "name": "Amit Sharma",
+      "city": "Delhi",
+      "age": 28,
+      "gender": "Male",
+      "height": 1.75,
+      "weight": 72,
+      "bmi": 23.5,
+      "verdict": "Normal"
+    },
+    {
+      "patient_id": "P002",
+      "name": "Priya Verma",
+      "city": "Lucknow",
+      "age": 32,
+      "gender": "Female",
+      "height": 1.62,
+      "weight": 68,
+      "bmi": 25.9,
+      "verdict": "Overweight"
+    },
+    {
+      "patient_id": "P003",
+      "name": "Rahul Yadav",
+      "city": "Patna",
+      "age": 24,
+      "gender": "Male",
+      "height": 1.70,
+      "weight": 60,
+      "bmi": 20.8,
+      "verdict": "Normal"
+    },
+    {
+      "patient_id": "P004",
+      "name": "Sneha Gupta",
+      "city": "Kanpur",
+      "age": 29,
+      "gender": "Female",
+      "height": 1.58,
+      "weight": 50,
+      "bmi": 20.0,
+      "verdict": "Normal"
+    },
+    {
+      "patient_id": "P005",
+      "name": "Rohit Singh",
+      "city": "Varanasi",
+      "age": 35,
+      "gender": "Male",
+      "height": 1.80,
+      "weight": 90,
+      "bmi": 27.8,
+      "verdict": "Overweight"
+    },
+    {
+      "patient_id": "P006",
+      "name": "Neha Kumari",
+      "city": "Gaya",
+      "age": 26,
+      "gender": "Female",
+      "height": 1.55,
+      "weight": 45,
+      "bmi": 18.7,
+      "verdict": "Normal"
+    },
+    {
+      "patient_id": "P007",
+      "name": "Vikas Mishra",
+      "city": "Allahabad",
+      "age": 40,
+      "gender": "Male",
+      "height": 1.72,
+      "weight": 95,
+      "bmi": 32.1,
+      "verdict": "Obese"
+    },
+    {
+      "patient_id": "P008",
+      "name": "Pooja Singh",
+      "city": "Jaipur",
+      "age": 30,
+      "gender": "Female",
+      "height": 1.60,
+      "weight": 70,
+      "bmi": 27.3,
+      "verdict": "Overweight"
+    },
+    {
+      "patient_id": "P009",
+      "name": "Arjun Patel",
+      "city": "Ahmedabad",
+      "age": 27,
+      "gender": "Male",
+      "height": 1.74,
+      "weight": 65,
+      "bmi": 21.5,
+      "verdict": "Normal"
+    },
+    {
+      "patient_id": "P010",
+      "name": "Kavita Nair",
+      "city": "Kochi",
+      "age": 34,
+      "gender": "Female",
+      "height": 1.63,
+      "weight": 80,
+      "bmi": 30.1,
+      "verdict": "Obese"
+    },
+    {
+      "patient_id": "P011",
+      "name": "Suresh Reddy",
+      "city": "Hyderabad",
+      "age": 45,
+      "gender": "Male",
+      "height": 1.68,
+      "weight": 85,
+      "bmi": 30.1,
+      "verdict": "Obese"
+    },
+    {
+      "patient_id": "P012",
+      "name": "Anjali Das",
+      "city": "Kolkata",
+      "age": 22,
+      "gender": "Female",
+      "height": 1.57,
+      "weight": 48,
+      "bmi": 19.5,
+      "verdict": "Normal"
+    },
+    {
+      "patient_id": "P013",
+      "name": "Deepak Kumar",
+      "city": "Ranchi",
+      "age": 31,
+      "gender": "Male",
+      "height": 1.76,
+      "weight": 78,
+      "bmi": 25.2,
+      "verdict": "Overweight"
+    },
+    {
+      "patient_id": "P014",
+      "name": "Meena Iyer",
+      "city": "Chennai",
+      "age": 38,
+      "gender": "Female",
+      "height": 1.59,
+      "weight": 52,
+      "bmi": 20.6,
+      "verdict": "Normal"
+    },
+    {
+      "patient_id": "P015",
+      "name": "Karan Malhotra",
+      "city": "Chandigarh",
+      "age": 29,
+      "gender": "Male",
+      "height": 1.82,
+      "weight": 88,
+      "bmi": 26.6,
+      "verdict": "Overweight"
+    },
+    {
+      "patient_id": "P016",
+      "name": "Ritu Saxena",
+      "city": "Bhopal",
+      "age": 33,
+      "gender": "Female",
+      "height": 1.61,
+      "weight": 74,
+      "bmi": 28.5,
+      "verdict": "Overweight"
+    },
+    {
+      "patient_id": "P017",
+      "name": "Manoj Tiwari",
+      "city": "Gorakhpur",
+      "age": 41,
+      "gender": "Male",
+      "height": 1.69,
+      "weight": 92,
+      "bmi": 32.2,
+      "verdict": "Obese"
+    },
+    {
+      "patient_id": "P018",
+      "name": "Sunita Devi",
+      "city": "Muzaffarpur",
+      "age": 36,
+      "gender": "Female",
+      "height": 1.54,
+      "weight": 49,
+      "bmi": 20.7,
+      "verdict": "Normal"
+    },
+    {
+      "patient_id": "P019",
+      "name": "Rakesh Pandey",
+      "city": "Bareilly",
+      "age": 28,
+      "gender": "Male",
+      "height": 1.73,
+      "weight": 68,
+      "bmi": 22.7,
+      "verdict": "Normal"
+    },
+    {
+      "patient_id": "P020",
+      "name": "Shalini Joshi",
+      "city": "Pune",
+      "age": 27,
+      "gender": "Female",
+      "height": 1.65,
+      "weight": 58,
+      "bmi": 21.3,
+      "verdict": "Normal"
+    }
+  ]
+}
