@@ -21,4 +21,3 @@ def predict(user_input:InputSchema):
     return OutputSchema(predicted_price=prediction)
     
     
-    
